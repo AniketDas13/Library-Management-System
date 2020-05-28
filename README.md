@@ -9,3 +9,7 @@ The project undertaken does the automation of the 'Library Management System' in
 The main reason of developing this software is to reduce the workload and to provide the ease of use to accomplish the desired task along with better service to the customers and society.
 
 Aniket Das (AniketDas13)
+
+Points to be added :
+1) Use of "gotoxy" function should be prohibited since it can only be compiled on Turbo C++ which is a very primitive IDE. 
+2) Mention the creation of the "BOOK.txt" file else people compiling your code will find trouble in getting the output.
