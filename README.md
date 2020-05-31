@@ -6,7 +6,7 @@ A 'Library Management System' is a collection of different entities - books, lib
 
 The project undertaken does the automation of the 'Library Management System' in an organization. It's having a Menu-Driven User Interface and consists of three menus: Main Menu, Books' Menu and Issue Menu. It contains the vital data and information regarding book, issue and customer details. The administrator of the project can enter new book and issue details, display all/specific book and issue details and modify book and issue details.
 
-The main reason for developing this software is to reduce the workload and to provide the ease of use to accomplish the desired task along with better service to the customers and society.
+The main objective of developing this software is to reduce the workload and to provide the ease of use to accomplish the desired task along with better service to the customers and society.
 
 Aniket Das (AniketDas13)
 
