@@ -1,5 +1,5 @@
 # Library Management System
-My Computer Science Final Project in Class XII on 'Library Management System' using C++
+Computer Science Final Project in Class XII on 'Library Management System' using C++
 ----------------------------------------------------------------------------------------
 
 A 'Library Management System' is a collection of different entities - books, librarian, accountant, customer, student or reader, etc. It is a centralized place where the information related to different types of books can be found.
