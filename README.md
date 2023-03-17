@@ -10,5 +10,4 @@ The main objective of developing this software is to reduce the workload and to 
 
 Aniket Das (AniketDas13)
 
-N.B.: The provided source code has been executed using 'Turbo C++' IDE, which is quite primitive according to today's standards. I had done this project in Class 12, and 'Turbo C++' was my IDE of choice back then.
-I will be updating the source code as per the latest C++ standards in near future.
+N.B.: The provided source code has been executed using 'Turbo C++' IDE, which is quite primitive according to today's standards. I had done this project in Class XII, and 'Turbo C++' was my IDE of choice back then.
